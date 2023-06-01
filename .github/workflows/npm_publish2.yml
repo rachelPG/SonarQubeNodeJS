@@ -1,4 +1,4 @@
-name: NodeJS CI workflow
+name: NodeJS CI workflow2
 on:
   workflow_dispatch
 jobs:
